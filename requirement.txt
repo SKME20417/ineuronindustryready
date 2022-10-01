@@ -5,3 +5,8 @@ seaborn
 open cv 
 flask
 tensorflow
+keras
+pytorch
+request
+beautiful soup
+

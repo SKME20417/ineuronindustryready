@@ -4,3 +4,5 @@
 ## lets revise all conceptsgit 
 ## machine learning is fun 
 ## these changes are by develper2
+## these changes are done by iamdev1
+## develper iamdev1 is new in company
